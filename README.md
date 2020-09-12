@@ -26,7 +26,7 @@ Happy hacking! :)
 (You will need curl, which is not installed by default on Ubuntu 20.04, if you get a "command not found" error, run `sudo apt update && sudo apt install curl`)
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/pry0cc/axiom/master/interact/axiom-configure)
+bash <(curl -s https://raw.githubusercontent.com/rossiV1/axiom/master/interact/axiom-configure)
 ```
 
 When I first began trying to get up and running my own dynamic cloud hacking setup, I noticed that the array of tools and ecosystems were so large, and there were 50 different ways to do just about everything, do I use ansible for provisioning on server boot, do I load ansible with packer? How much do I configure for image builds? There were a few ‘red team’ infra setup tools and aids, but they all required so much legwork just to get off the ground. It felt like in a lot of cases people were just publishing what they use without any help/documentation on getting started.
@@ -84,7 +84,7 @@ Happy hacking! :)
 (You will need curl, which is not installed by default on Ubuntu 20.04, if you get a "command not found" error, run `sudo apt update && sudo apt install curl`)
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/pry0cc/axiom/master/interact/axiom-configure)
+bash <(curl -s https://raw.githubusercontent.com/rossiV1/axiom/master/interact/axiom-configure)
 ```
 
 # OS Support
