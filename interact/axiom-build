@@ -27,7 +27,7 @@ then
 	exit
 fi
 
-image_path="$AXIOM_PATH/images/axiom.json"
+image_path="$AXIOM_PATH/images/provisioners/full.json"
 generate_packer $builder $provisioner
 
 if [[ ! -f "$AXIOM_PATH/configs/authorized_keys" ]]
