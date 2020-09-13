@@ -106,7 +106,7 @@ if [ $BASEOS == "Mac" ]; then
 fi
 
 if [ ! -d $AXIOM_PATH ]; then
-	git clone https://github.com/pry0cc/axiom $AXIOM_PATH
+	git clone https://github.com/rossiV1/axiom $AXIOM_PATH
 else
 	cd $AXIOM_PATH && git pull
 fi
